@@ -73,6 +73,10 @@ module.exports = {
         'background-color': '#000',
         green: colors.emerald,
         gray: colors.neutral,
+        jovan: {
+          biru: '#98E4FF',
+          merah: '#BF3131',
+        },
       },
       typography: (theme) => ({
         DEFAULT: {
